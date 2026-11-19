@@ -1,0 +1,18 @@
+{
+  "name": "operacao-agro-vila",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Operação Agro Vila — Jogo 3D de simulação e construção comunitária em 1.525.000 m² com 30 famílias (Three.js)",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5173",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 4173"
+  },
+  "dependencies": {
+    "three": "^0.175.0"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  }
+}
